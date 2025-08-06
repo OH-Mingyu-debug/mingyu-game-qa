@@ -1,7 +1,5 @@
-# mingyu-game-qa
-Game QA 포트폴리오
-
 # Game QA Portfolio
+민규의 게임 QA 포트폴리오
 
 ## Week-00 (Game : X(테스트용))
 - [ ] test_cases.md
