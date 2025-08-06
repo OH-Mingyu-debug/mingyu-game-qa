@@ -3,6 +3,10 @@ Game QA 포트폴리오
 
 # Game QA Portfolio
 
+## Week-00 (Game : X(테스트용))
+- [ ] test_cases.md
+- [ ] bug_report.md
+
 ## Week-01
 - [ ] test_cases.md
 - [ ] bug_report.md
