@@ -9,4 +9,3 @@
 | 빌드/버전        | Title: N/A / File Product ver: 2022.3.47f1 / **Observed**: 2025-08-09 23:40 KST |
 | 파일 정보        | **ZIP**: Metal_Head.zip ~37MB / **설치 폴더**: 220MB |
 | 파일 해시        | SHA256: 5BE2EA59EC8F0E6DCB2A8D47215DFB0E3609A227B8F061C39A48D5EF1B7FDFA5 |
-| 증거             | evidence/screenshots/W01-title-version.png |
