@@ -8,10 +8,12 @@
 <br>
 
 ## 빠른 안내(30초)
-- **읽는 법**: 각 주차의 `summary.md` → 상세 문서로 이동    <br>
+- **읽는 법**: 각 주차의 `summary.md` → 상세 문서로 이동
+
 - **문서 규칙**:
   - 파일명: `kebab-case` (예: `test-cases.md`)
-  - ID 규칙: `W{주차}-TC-XX`, `W{주차}-BUG-XX` (예: `W01-TC-03`)    <br>
+  - ID 규칙: `W{주차}-TC-XX`, `W{주차}-BUG-XX` (예: `W01-TC-03`)
+
 - **증거 위치**: `Week-XX/evidence/` (스크린샷·영상·로그)
 
 <br><br>
@@ -19,12 +21,18 @@
 <details>
 <summary><b>문서 구성</b></summary>
 
-- `test-basis.md` : 테스트 설계 근거     <br>
-- `env-matrix.md` : 실행 환경 표(OS/해상도/입력/빌드/버전)     <br>
-- `session-notes.md` : 세션 차터·타임박스·진행 로그      <br>
-- `test-cases.md` : 테스트 시나리오       <br>
-- `bug-report.md` : 결함 원장       <br>
-- `summary.md` : 주간 요약        <br>
+- `test-basis.md` : 테스트 설계 근거
+
+- `env-matrix.md` : 실행 환경 표(OS/해상도/입력/빌드/버전)
+
+- `session-notes.md` : 세션 차터·타임박스·진행 로그
+
+- `test-cases.md` : 테스트 시나리오
+
+- `bug-report.md` : 결함 원장
+
+- `summary.md` : 주간 요약
+
 </details>
 
 <br><br>
@@ -50,10 +58,13 @@
 <br>
 
 ## Conventions
-- **TC/BUG ID**: `W01-TC-01`, `W01-BUG-02`     <br>
-- **심각도**: 치명적(show stopper) / 매우 심각(Fatal) / 심각(No Workaround) / 보통(Workaround) / 경미(Cosmetic)    <br>
-- **우선순위**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)    <br>
-- **증거**: `W01-BUG-02.png`, `W01-TC-04.mp4`      <br>
+- **TC/BUG ID**: `W01-TC-01`, `W01-BUG-02`
+
+- **심각도**: 치명적(show stopper) / 매우 심각(Fatal) / 심각(No Workaround) / 보통(Workaround) / 경미(Cosmetic)
+
+- **우선순위**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)
+
+- **증거**: `W01-BUG-02.png`, `W01-TC-04.mp4`
 
 <br>
 
