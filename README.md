@@ -19,7 +19,7 @@
 <br><br>
 
 <details>
-<summary><b>문서 구성</b></summary>
+<summary><b>문서 구성 (Document Structure)</b></summary>
 
 - `test-basis.md` : 테스트 설계 근거
 
