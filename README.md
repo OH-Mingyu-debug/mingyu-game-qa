@@ -7,14 +7,14 @@
 
 <br>
 
-## 빠른 안내(30초)
-- **읽는 법**: 각 주차의 `summary.md` → 상세 문서로 이동
+## 빠른 안내(30초) (Quick Guide)
+- **읽는 법(How to read)**: 각 주차의 `summary.md` → 상세 문서로 이동
 
-- **문서 규칙**:
-  - 파일명: `kebab-case` (예: `test-cases.md`)
-  - ID 규칙: `W{주차}-TC-XX`, `W{주차}-BUG-XX` (예: `W01-TC-03`)
+- **문서 규칙 (Document Rules)**:
+  - **파일명(File Name)**: `kebab-case` (예: `test-cases.md`)
+  - **ID 규칙(ID Rules)**: `W{주차}-TC-XX`, `W{주차}-BUG-XX` (예: `W01-TC-03`)
 
-- **증거 위치**: `Week-XX/evidence/` (스크린샷·영상·로그)
+- **증거 위치 (Evidence Location)**: `Week-XX/evidence/` (스크린샷·영상·로그)
 
 <br><br>
 
@@ -60,12 +60,12 @@
 ## Conventions
 - **TC/BUG ID**: `W01-TC-01`, `W01-BUG-02`
 
-- **심각도**: 치명적(show stopper) / 매우 심각(Fatal) / 심각(No Workaround) / 보통(Workaround) / 경미(Cosmetic)
+- **심각도(Severity)**: 치명적(show stopper) / 매우 심각(Fatal) / 심각(No Workaround) / 보통(Workaround) / 경미(Cosmetic)
 
-- **우선순위**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)
+- **우선순위(Priority)**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)
   - **_test-cases에서의 우선순위 : 매우 높음 (very high) / 높음 (high) / 보통 (Medium) / 낮음 (Low)_**
 
-- **증거**: `W01-BUG-02.png`, `W01-TC-04.mp4`
+- **증거(Evidence)**: `W01-BUG-02.png`, `W01-TC-04.mp4`
 
 <br>
 
