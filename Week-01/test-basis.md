@@ -16,8 +16,8 @@
 - 스샷
   - [상품 설명 스크린샷](evidence/screenshots/Week01_MetalHead_productdescription.png)
   - [튜토리얼(기본 조작) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial01.png)
-  - [튜토리얼(더블점프) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial02)
-  - [튜토리얼(대쉬) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial03)
+  - [튜토리얼(더블점프) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial02.png)
+  - [튜토리얼(대쉬) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial03.png)
   
 
 <br>
