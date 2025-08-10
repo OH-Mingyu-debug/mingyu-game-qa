@@ -14,7 +14,7 @@
   - Spacebar Double tap : 2단 점프 **_※1단계 업그레이드시 해금※_**
   - Left Shift : 대쉬 **_※2단계 업그레이드시 해금※_**
 - 스샷
-  - [제품설명 스크린샷](evidence/screenshots/Week01_MetalHead_product description.png)
+  - [상품 설명 스크린샷](evidence/screenshots/Week01_MetalHead_productdescription.png)
   - [튜토리얼(기본 조작) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial01.png)
   - [튜토리얼(더블점프) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial02)
   - [튜토리얼(대쉬) 스크린샷](evidence/screenshots/Week01_MetalHead_tutorial03)
