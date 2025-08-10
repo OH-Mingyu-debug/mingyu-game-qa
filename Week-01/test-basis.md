@@ -3,9 +3,9 @@
 <br>
 
 ## 출처(명시적 근거)
-- 페이지 요약: "2D platformer demo level", 싱글플레이, 짧은 데모, 레벨 끝 도달
-- 메타: Published : 2025-01-03 / Status : Prototype / Platform : Windows / Author : LukeTC
-- 설치: 압축 해제 → "Metal Head" 실행 파일 실행
+- 페이지 요약 : "2D platformer demo level", 싱글플레이, 짧은 데모, 레벨 끝 도달
+- 메타 : Published : 2025-01-03 / Status : Prototype / Platform : Windows / Author : LukeTC
+- 설치 : 압축 해제 → "Metal Head" 실행 파일 실행
 - 조작키
   - A : 왼쪽으로 이동
   - D : 오른쪽으로 이동
