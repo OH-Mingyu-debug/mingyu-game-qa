@@ -13,7 +13,7 @@
   - ctrl : 공격
   - Spacebar Double tap : 2단 점프 **_※1단계 업그레이드시 해금※_**
   - Left Shift : 대쉬 **_※2단계 업그레이드시 해금※_**
-- 스샷: [제품설명/튜토리얼 evidence](Week01/evidence/screenshots)
+- 스샷: [제품설명/튜토리얼 evidence](evidence/screenshots)
 
 <br>
 
