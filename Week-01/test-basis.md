@@ -18,8 +18,8 @@
 <br>
 
 ## 장르·플랫폼 컨벤션(암묵적)
-- Platformer: 이동/점프 즉시 반응, 가장자리 충돌, 낙사/리스폰, 체크포인트
-- Windows: ESC=Pause, Alt+Enter=창↔전체
+- Platformer : 이동/점프 즉시 반응, 가장자리 충돌, 낙사/리스폰, 체크포인트
+- Windows : ESC=Pause, Alt+Enter=창↔전체
 
 <br>
 
