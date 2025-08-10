@@ -63,7 +63,7 @@
 - **심각도**: 치명적(show stopper) / 매우 심각(Fatal) / 심각(No Workaround) / 보통(Workaround) / 경미(Cosmetic)
 
 - **우선순위**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)
-  - **_※test-cases에서의 우선순위 : 매우 높음 (very high) / 높음 (high) / 보통 (Medium) / 낮음 (Low)※_**
+  - **_test-cases에서의 우선순위 : 매우 높음 (very high) / 높음 (high) / 보통 (Medium) / 낮음 (Low)_**
 
 - **증거**: `W01-BUG-02.png`, `W01-TC-04.mp4`
 
@@ -71,4 +71,5 @@
 
 ## Changelog
 - 2025-08-09: 초기 구조 정리, 파일명 통일, 주차 링크 추가
-- 2025-08-10: Week-01 옆 게임명 추가, test-cases에서의 우선순위 추가, Week-01 test-basis 완료 체크크
+- 2025-08-10: Week-01 옆 게임명 추가, test-cases에서의 우선순위 추가, Week-01 test-basis 완료 체크
+
