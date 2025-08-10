@@ -1,6 +1,6 @@
 # Week-01(MetalHead) Bug Report
 
-**BUG-00 : 사이드바 열기 시 무반응**
+### BUG-00 : 사이드바 열기 시 무반응
 
 **테스팅 환경(Test Case)** : TC1  |  **검증포인트(Coverage Point)** : C2  |  **리스크(Risk)** : 진행 차단
 
