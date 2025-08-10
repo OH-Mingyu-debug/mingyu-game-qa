@@ -1,5 +1,4 @@
-# Week-01 Test Cases
-#게임명 : Metal Head
+# Week-01(Metal Head) Test Cases
 
 <br>
 
