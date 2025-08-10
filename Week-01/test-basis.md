@@ -4,7 +4,7 @@
 
 ## 출처(명시적 근거)
 - 페이지 요약: "2D platformer demo level", 싱글플레이, 짧은 데모, 레벨 끝 도달
-- 메타: Published 2025-01-03 / Status Prototype / Platform Windows / Author LukeTC
+- 메타: Published : 2025-01-03 / Status : Prototype / Platform : Windows / Author : LukeTC
 - 설치: 압축 해제 → "Metal Head" 실행 파일 실행
 - 조작키
   - A : 왼쪽으로 이동
@@ -13,7 +13,7 @@
   - ctrl : 공격
   - Spacebar Double tap : 2단 점프 **_※1단계 업그레이드시 해금※_**
   - Left Shift : 대쉬 **_※2단계 업그레이드시 해금※_**
-- 스샷: (Week01/evidence/screenshots)
+- 스샷: [제품설명/튜토리얼 evidence](Week01/evidence/screenshots)
 
 <br>
 
