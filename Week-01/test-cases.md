@@ -16,7 +16,7 @@
 
 - **예상 결과(Expected Result)** : 실행/로딩 크래시 없음 / ESC옵션 정상 작동 /종료 시 프로세스 정상 종료
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-02)
 
 <br>
 
@@ -35,7 +35,7 @@
 
 - **예상 결과(Expected Result)** : 입력 즉시 반응 / 딜레이 미미 / 가장자리에서 끼임 및 충돌 없음 / 맵 이동 시 충돌 없음 및 프레임 드랍 미미
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-04) (BUG-05) (BUG-09)
 
 <br>
 
@@ -53,7 +53,7 @@
 
 - **예상 결과(Expected Result)** : 사망 시 사망UI 표시 / 리스폰 버튼 클릭시 리스폰 동작 / 체크포인트 기준으로 리스폰, 상태 초기화 확인
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-01)
 
 <br>
 
@@ -72,7 +72,7 @@
 
 - **예상 결과(Expected Result)** : 히트 시 시각 및 음향 피드백 / 허공 히트 미판정 / 점프와 이동 공격시에도 판정 인정 / 일정 히트 시 적 사망 /피격 시 HP 소진 / 피격으로 HP 다 소진 시 사망
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-03) (BUG-06) (BUG-10) (BUG-11) (BUG-12)
 
 <br>
 
@@ -89,7 +89,7 @@
 
 - **예상 결과(Expected Result)** : Space bar 더블 탭 입력 시 더블점프 / 쿨타임 중에는 실행 불가 / 입력 타이밍 허용 범위 합리적 / 플랫폼 및 벽 관통 없음 / 2단 점프 중 카메라 떨림 및 시야 이탈 없음
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-07) (BUG-13)
 
 <br>
 
@@ -106,7 +106,7 @@
 
 - **예상 결과(Expected Result)** : Left Shift 입력 시 대쉬 / 쿨타임 중에는 실행 불가 / 플랫폼 및 벽 관통 없음 / 대쉬 중 카메라 떨림 및 시야 이탈 없음
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Fail (BUG-08) (BUG-14)
 
 <br>
 
@@ -124,7 +124,7 @@
 
 - **예상 결과(Expected Result)** : 엔드 트리거 안정 작동 / 클리어 UI 표시 / 클리어 UI에서 메인화면으로 이동
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Pass w / Issues (BUG-15)
 
 <br>
 
@@ -142,6 +142,6 @@
 
 - **예상 결과(Expected Result)** : 조작키 입력 및 오디오 정상 / 블랙스크린, 크래시 없음 / 전환 후 프레임 및 카메라 이상 없음
 
-- **상태(Status)** : Not Run
+- **상태(Status)** : Pass
 
 <br>
