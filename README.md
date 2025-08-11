@@ -12,7 +12,7 @@
 
 - **문서 규칙 (Document Rules)**:
   - **파일명(File Name)**: `kebab-case` (예: `test-cases.md`)
-  - **ID 규칙(ID Rules)**: `W{주차}-TC-XX`, `W{주차}-BUG-XX` (예: `W01-TC-03`)
+  - **ID 규칙(ID Rules)**: `TC-XX`, `BUG-XX` (예: `TC-03`)
 
 - **증거 위치 (Evidence Location)**: `Week-XX/evidence/` (스크린샷·영상·로그)
 
@@ -50,8 +50,8 @@
 ### Week-01 (Metal Head)
 - [x] [test-basis.md](Week-01/test-basis.md)
 - [x] [env-matrix.md](Week-01/env-matrix.md)
-- [ ] [session-notes.md](Week-01/session-notes.md)
-- [ ] [test-cases.md](Week-01/test-cases.md)
+- [x] [session-notes.md](Week-01/session-notes.md)
+- [x] [test-cases.md](Week-01/test-cases.md)
 - [ ] [bug-report.md](Week-01/bug-report.md)
 - [ ] [summary.md](Week-01/summary.md)
 
@@ -71,5 +71,5 @@
 
 ## Changelog
 - 2025-08-09: 초기 구조 정리, 파일명 통일, 주차 링크 추가
-- 2025-08-10: Week-01 옆 게임명 추가, test-cases에서의 우선순위 추가, Week-01 test-basis 완료 체크
-
+- 2025-08-10: Week-01 옆 게임명 추가, test-cases에서의 우선순위 추가, Week-01 test-basis 체크
+- 2025-08-11: Week-01 session-notes, Week-01 test-cases 체크 , ID규칙 수정
