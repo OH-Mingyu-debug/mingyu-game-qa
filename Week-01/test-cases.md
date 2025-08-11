@@ -16,7 +16,7 @@
 
 - **예상 결과(Expected Result)** : 실행/로딩 크래시 없음 / ESC옵션 정상 작동 /종료 시 프로세스 정상 종료
 
-- **상태(Status)** : Fail (BUG-02)
+- **상태(Status)** : Fail (BUG-01) (BUG-02)
 
 <br>
 
