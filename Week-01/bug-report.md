@@ -19,7 +19,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-01](Week-01/evidence/videos/W01_BUG_01.mp4)
 
 <br>
 
@@ -39,7 +39,7 @@
 
 - **발현빈도(Repro Rate)** : 3/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-02](Week-01/evidence/screenshots/W01_BUG_02.png)
 
 <br>
 
@@ -60,7 +60,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-03](Week-01/evidence/screenshots/W01_BUG_03.png)
 
 <br>
 
@@ -79,7 +79,7 @@
 
 - **발현빈도(Repro Rate)** : 3/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-04](Week-01/evidence/screenshots/W01_BUG_04.png)
 
 <br>
 
@@ -98,7 +98,7 @@
 
 - **발현빈도(Repro Rate)** : 2/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-05](Week-01/evidence/screenshots/W01_BUG_05.png)
 
 <br>
 
@@ -117,7 +117,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-06](Week-01/evidence/screenshots/W01_BUG_06.png)
 
 <br>
 
@@ -137,7 +137,7 @@
 
 - **발현빈도(Repro Rate)** : 4/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-07](Week-01/evidence/videos/W01_BUG_07.mp4)
 
 <br>
 
@@ -157,7 +157,7 @@
 
 - **발현빈도(Repro Rate)** : 4/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-08](Week-01/evidence/videos/W01_BUG_08.mp4)
 
 <br>
 
@@ -178,7 +178,7 @@
 
 - **발현빈도(Repro Rate)** : 5/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-09](Week-01/evidence/videos/W01_BUG_09.mp4)
 
 <br>
 
@@ -198,7 +198,7 @@
 
 - **발현빈도(Repro Rate)** : 5/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-10](Week-01/evidence/videos/W01_BUG_10.mp4)
 
 <br>
 
@@ -217,7 +217,7 @@
 
 - **발현빈도(Repro Rate)** : 5/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-11](Week-01/evidence/screenshots/W01_BUG_11.png)
 
 <br>
 
@@ -236,7 +236,7 @@
 
 - **발현빈도(Repro Rate)** : 2/5
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-12](Week-01/evidence/videos/W01_BUG_12.mp4)
 
 <br>
 
@@ -257,7 +257,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-13](Week-01/evidence/videos/W01_BUG_13.mp4)
 
 <br>
 
@@ -278,7 +278,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-14](Week-01/evidence/videos/W01_BUG_14.mp4)
 
 <br>
 
@@ -298,7 +298,7 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : N/A
+- **스크린샷/로그(Evidence)** : [BUG-15](Week-01/evidence/videos/W01_BUG_15.mp4)
 
 <br>
 
