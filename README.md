@@ -65,7 +65,7 @@
 - **우선순위(Priority)**: 즉시 해결(Resolve immediately) / 주의 요망(Give high attention) / 대기(Normal queue) / 낮은 순위(Low priority)
   - **_test-cases에서의 우선순위 : 매우 높음 (very high) / 높음 (high) / 보통 (Medium) / 낮음 (Low)_**
 
-- **증거(Evidence)**: `W01-BUG-02.png`, `W01-TC-04.mp4`
+- **증거(Evidence)**: `W01_BUG_02.png`, `W01_TC_04.mp4`
 
 <br>
 
