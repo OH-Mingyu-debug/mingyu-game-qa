@@ -74,4 +74,4 @@
 - 2025-08-10: Week-01 옆 게임명 추가, test-cases에서의 우선순위 추가, Week-01 test-basis 체크
 - 2025-08-11: Week-01 session-notes, Week-01 test-cases 체크 , ID규칙 수정
 - 2025-08-12: Week-01 bug-report 체크
-- 2025-08-13: Week-01 summart.md 체크
+- 2025-08-13: Week-01 summary.md 체크
