@@ -19,13 +19,14 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : [BUG-01](evidence/videos/W01_BUG_01.gif)
+- **스크린샷/로그(Evidence)** : [BUG-01](evidence/videos/W01_BUG_01.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
 ## BUG-02 : 종료 후 itch-setup.exe에서 재실행 오류
 
-- **테스팅 환경(Test Case)** : TC-01  |  **검증포인트(Coverage Point)** : C5  |  **리스크(Risk)** : 크래시
+- **테스팅 환경(Test Case)** : TC-01  |  **검증포인트(Coverage Point)** : C5  |  **리스크(Risk)** : 진행차단/크래시
 
 - **심각도(Severity)** : 매우 심각(Fatal)  |  **우선순위(Priority)** : 주의 요망(Give high attention)
 
@@ -137,7 +138,8 @@
 
 - **발현빈도(Repro Rate)** : 4/5
 
-- **스크린샷/로그(Evidence)** : [BUG-07](evidence/videos/W01_BUG_07.gif)
+- **스크린샷/로그(Evidence)** : [BUG-07](evidence/videos/W01_BUG_07.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -157,7 +159,8 @@
 
 - **발현빈도(Repro Rate)** : 4/5
 
-- **스크린샷/로그(Evidence)** : [BUG-08](evidence/videos/W01_BUG_08.gif)
+- **스크린샷/로그(Evidence)** : [BUG-08](evidence/videos/W01_BUG_08.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -178,7 +181,8 @@
 
 - **발현빈도(Repro Rate)** : 5/5
 
-- **스크린샷/로그(Evidence)** : [BUG-09](evidence/videos/W01_BUG_09.gif)
+- **스크린샷/로그(Evidence)** : [BUG-09](evidence/videos/W01_BUG_09.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -198,7 +202,8 @@
 
 - **발현빈도(Repro Rate)** : 5/5
 
-- **스크린샷/로그(Evidence)** : [BUG-10](evidence/videos/W01_BUG_10.gif)
+- **스크린샷/로그(Evidence)** : [BUG-10](evidence/videos/W01_BUG_10.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -236,7 +241,8 @@
 
 - **발현빈도(Repro Rate)** : 2/5
 
-- **스크린샷/로그(Evidence)** : [BUG-12](evidence/videos/W01_BUG_12.gif)
+- **스크린샷/로그(Evidence)** : [BUG-12](evidence/videos/W01_BUG_12.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -257,7 +263,8 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : [BUG-13](evidence/videos/W01_BUG_13.gif)
+- **스크린샷/로그(Evidence)** : [BUG-13](evidence/videos/W01_BUG_13.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -278,7 +285,8 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : [BUG-14](evidence/videos/W01_BUG_14.gif)
+- **스크린샷/로그(Evidence)** : [BUG-14](evidence/videos/W01_BUG_14.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
@@ -298,7 +306,8 @@
 
 - **발현빈도(Repro Rate)** : 3/3
 
-- **스크린샷/로그(Evidence)** : [BUG-15](evidence/videos/W01_BUG_15.gif)
+- **스크린샷/로그(Evidence)** : [BUG-15](evidence/videos/W01_BUG_15.mp4)
+  **※mp4 문서 증거는 용량 상의 문제로 미리보기 불가함※**
 
 <br>
 
