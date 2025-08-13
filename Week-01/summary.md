@@ -32,11 +32,11 @@
 ## 상위 5개 이슈 (Top 5 Issues) (Risk-ordered)
 | ID | Risk | Severity | Repro | Impact (요약) | Evidence |
 |---|---|---|---|---|---|
-| BUG-01 | 진행 차단 | 매우 심각(Fatal) | 3/3 | 사망 UI→옵션 후 “다시 실행” 시 진행 불가 | `evidence/videos/W01_BUG_01.mp4` |
-| BUG-02 | 크래시 | 매우 심각(Fatal) | 3/5 | 종료 후 itch 재실행 오류 | `evidence/videos/W01_BUG_02.png` |
-| BUG-03 | 진행 차단 | 심각(No Workaround) | 3/3 | 데몬(적) 추적 시스템 오류 | `evidence/videos/W01_BUG_03.png` |
-| BUG-04 | 충돌 | 보통(Workaround) | 3/5 | 가장자리 낙하 판정 모호 | `evidence/screenshots/W01_BUG_04.png` |
-| BUG-06 | 전투판정 | 보통(Workaround) | 3/3 | 보스전 가장자리에서 공격 무효/화면 이탈 | `evidence/videos/W01_BUG_06.png` |
+| BUG-01 | 진행 차단 | 매우 심각(Fatal) | 3/3 | 사망 UI→옵션 후 “다시 실행” 시 진행 불가 | `Week-01/evidence/videos/W01_BUG_01.mp4` |
+| BUG-02 | 진행차단/크래시 | 매우 심각(Fatal) | 3/5 | 종료 후 itch 재실행 오류 | `Week-01/evidence/videos/W01_BUG_02.png` |
+| BUG-03 | 진행 차단 | 심각(No Workaround) | 3/3 | 데몬(적) 추적 시스템 오류 | `Week-01/evidence/videos/W01_BUG_03.png` |
+| BUG-04 | 충돌 | 보통(Workaround) | 3/5 | 가장자리 낙하 판정 모호 | `Week-01/evidence/screenshots/W01_BUG_04.png` |
+| BUG-06 | 전투판정 | 보통(Workaround) | 3/3 | 보스전 가장자리에서 공격 무효/화면 이탈 | `Week-01/evidence/videos/W01_BUG_06.png` |
 
 <br>
 
@@ -58,19 +58,19 @@
 > Risk → Severity → Repro 기준 Top 5
 
 1) **BUG-01** — 사망 UI→옵션 후 “다시 실행” 진행 불가 **[매우 심각(Fatal), Repro 3/3]**  
-   - Acceptance: “다시 실행” 즉시 인게임 복귀, UI/입력/사운드 잔존 없음  Evidence: `evidence/videos/W01_BUG_01.mp4`
+   - Acceptance: “다시 실행” 즉시 인게임 복귀, UI/입력/사운드 잔존 없음  Evidence: `Week-01/evidence/videos/W01_BUG_01.mp4`
 
 2) **BUG-02** — 종료 후 itch 재실행 오류 **[매우 심각(Fatal), Repro 3/5]**  
-   - Acceptance: 정상 종료 뒤 재실행 시 메인 화면 진입, 오류 로그 없음  Evidence: `evidence/videos/W01_BUG_02.png`
+   - Acceptance: 정상 종료 뒤 재실행 시 메인 화면 진입, 오류 로그 없음  Evidence: `Week-01/evidence/videos/W01_BUG_02.png`
 
-3) **BUG-03** — 데몬(적) 추적 시스템 오류 **[심각(No Workaround, Repro 3/3]**  
-   - Acceptance: 정상 추적 시스템, 발판 없을 시 추격 불가  Evidence: `evidence/videos/W01_BUG_03.png`
+3) **BUG-03** — 데몬(적) 추적 시스템 오류 **[심각(No Workaround), Repro 3/3]**  
+   - Acceptance: 정상 추적 시스템, 발판 없을 시 추격 불가  Evidence: `Week-01/evidence/videos/W01_BUG_03.png`
 
-4) **BUG-04** — 가장자리 낙하 판정 모호 **[심각(No Workaround, Repro 3/5]**  
-   - Acceptance: 에지 끼임/허공 낙하/관통 없음(이동·점프·대쉬 포함)  Evidence: `evidence/screenshots/W01_BUG_04.png`
+4) **BUG-04** — 가장자리 낙하 판정 모호 **[심각(No Workaround), Repro 3/5]**  
+   - Acceptance: 에지 끼임/허공 낙하/관통 없음(이동·점프·대쉬 포함)  Evidence: `Week-01/evidence/screenshots/W01_BUG_04.png`
 
 5) **BUG-06** — 보스전 가장자리에서 공격 무효/화면 이탈 **[보통(Workaround), Repro 3/3]**  
-   - Acceptance: 경계에서 충돌·공격·카메라 정상, 화면 밖 이탈 불가  Evidence: `evidence/videos/W01_BUG_06.png`
+   - Acceptance: 경계에서 충돌·공격·카메라 정상, 화면 밖 이탈 불가  Evidence: `Week-01/evidence/videos/W01_BUG_06.png`
 
 <br>
 
