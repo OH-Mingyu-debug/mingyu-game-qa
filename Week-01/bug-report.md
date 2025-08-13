@@ -26,7 +26,7 @@
 
 ## BUG-02 : 종료 후 itch-setup.exe에서 재실행 오류
 
-- **테스팅 환경(Test Case)** : TC-01  |  **검증포인트(Coverage Point)** : C5  |  **리스크(Risk)** : 크래시
+- **테스팅 환경(Test Case)** : TC-01  |  **검증포인트(Coverage Point)** : C5  |  **리스크(Risk)** : 진행차단/크래시
 
 - **심각도(Severity)** : 매우 심각(Fatal)  |  **우선순위(Priority)** : 주의 요망(Give high attention)
 
